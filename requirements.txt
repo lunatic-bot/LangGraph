@@ -1,4 +1,5 @@
 langgraph
 langchain
 langsmith
-
+python-dotenv
+langchain-groq
